@@ -1,9 +1,10 @@
 // ==UserScript==
-// @name         Angel Bypass Premium
-// @namespace    https://tw8rev.vercel.app/
-// @version      1.0
-// @description  Premium Glass UI
-// @author       You
+// @name         Angel Bypass
+// @namespace    Angel.l0l bypass
+// @version      1.2.0
+// @description  Angel free userscript 
+// @author       Angel.l0l
+// @icon         https://cdn.discordapp.com/attachments/1472797429278703779/1489609882507153439/5C7558E7-2E1A-4F6B-9F19-464672F9D6D7.png?ex=69d10acf&is=69cfb94f&hm=3f3e588e5492cc1d6f035ea6ca3787ee3a3466baa8e0d904a5a9326ebd3aa344&
 // @match        *://auth.platorelay.com/*
 // @match        *://auth.platoboost.app/*
 // @match        *://auth.platoboost.me/*
