@@ -73,9 +73,9 @@
 // @match        *://lnbz.la/*
 // @match        *://linkzy.space/*
 // @match        *://ez4short.com/*
-// @updateURL    https://raw.githubusercontent.com/ly5878259-cpu/Angel-early-access/main/userscript.js
-// @downloadURL  https://raw.githubusercontent.com/ly5878259-cpu/Angel-early-access/main/userscript.js
-// @require      https://raw.githubusercontent.com/ly5878259-cpu/Angel-early-access/main/main.js
+// @updateURL    https://raw.githubusercontent.com/ly5878259-cpu/Angel.l0l-Userscript/main/userscript.user.js
+// @downloadURL  https://raw.githubusercontent.com/ly5878259-cpu/Angel.l0l-Userscript/main/userscript.user.js
+// @require      https://raw.githubusercontent.com/ly5878259-cpu/Angel.l0l-Userscript/main/main.js
 // @grant        GM_setClipboard
 // @grant        GM_openInTab
 // @grant        GM_addStyle
